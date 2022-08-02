@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43619a42-09f3-4cb4-8eed-7f8279fa4492" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Experiments/btn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiments/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiments/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1less/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1less/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Madina N/madi/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Madina N/madi/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Madina N/madi/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Message/message/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Message/message/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Message/message/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Microret/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Microret/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prepros.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projekt1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projekt1/src/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projekt1/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projekt1/src/scss/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projekt1/src/scss/media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projekt1/src/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../REACT 13 A/harrypotter/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../REACT 13 A/harrypotter/src/tost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../REACT 13 A/harrypotter/src/tosts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Redux-App/redux-app/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Redux-App/redux-app/src/components/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Redux-App/redux-app/src/components/Contacts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Redux-App/redux-app/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Redux-App/redux-app/src/components/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Redux-App/redux-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/AddTodo/AddTodo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/AddTodo/AddTodo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/Header/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/Status/StatusBtn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/Status/StatusBtn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/StatusBar/StatusBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/StatusBar/StatusBar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/Todo/Todo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/Todo/Todo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/Todo1/Todo1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/Todo1/Todo1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/Todos/Todos.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/components/Todos/Todos.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Todo List/todo-list/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WEATHER/weather/src/App/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WEATHER/weather/src/App/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WEATHER/weather/src/WeatherDisplay/WeatherDisplay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WEATHER/weather/src/WeatherDisplay/WeatherDisplay.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WhatsApp.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/1less/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/8less/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/8less/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/pages/charge/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/pages/info/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/advantage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/autos.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/begin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/btn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/charge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/info.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/overlay.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/products.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/BMW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/begin__bakcground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/info1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/info2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/info3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/info4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/info5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/popup__call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/products/first1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/images/second1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Cars/src/js/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/css/aboutUs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/css/firstScreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/css/meet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/css/navigating.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/css/ocean.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/css/promise.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/css/shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Outdoor/src/images/houses6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/Locations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/best.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/customers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/families.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/fast.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/house.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/houses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/posts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/css/works.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/images/customers1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/images/houses-bfr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/images/houses1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/images/houses2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/images/houses3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/images/houses4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/images/houses5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Realco/src/images/houses6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/css/Keep.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/css/build.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/css/design.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/css/lila.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/css/team.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/images/build__img1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/images/build__img2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/images/build__img3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/images/desing__back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/images/team1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/images/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/Stone/src/images/team3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/pages/about-us/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/pages/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/pages/certificate/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/pages/cheaper/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/care.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/certificate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/cheaper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/comfort.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/gift.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/master.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/overlay.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/portfolio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/second.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/service.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/studio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/together.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/css/we.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/blog1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/care.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/master/master1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/master/master2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/master/master3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/popupClose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/portfolio/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/portfolio/2 foto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/portfolio/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/portfolio/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/portfolio/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/portfolio/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/portfolio/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/portfolio/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/portfolio/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/team1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/together.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/together2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/we-photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/we1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/we2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/images/we3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/js/care.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/XNAILS/src/js/master.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/experement/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/experement/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/git/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework3(2)less/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework4(2)less/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework4(2)less/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework4less/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework4less/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework5less/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework5less/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework7(2)less/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework7(2)less/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework7less/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework7less/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework8less/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/homework8less/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/less26.05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/less26.05/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/secondless/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/secondless/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/strart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/strart/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/images/experience.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/images/service1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/images/team-photo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/images/team-photo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/images/team-photo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/images/team-photo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/style/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/style/contract.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/style/experience.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/style/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/style/service.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/style/team.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-run 18-00/tet/src/style/world.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/.idea/lala.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/src/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/src/images/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/src/images/promo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lala/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson 0/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson 0/.idea/iphone-logo.f1596526131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson 0/.idea/lesson 0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson 0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson 0/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson 0/Majn_Rid__Vsadnik_bez_golovy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson 0/aple.jpg.crdownload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson 0/apple_logo_PNG19692.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson 0/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson 0/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/.idea/lesson1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/Group (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/Rectangle 3 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/Rectangle 7.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/Rectangle 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/Rectangle 9.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/photo_2021-06-15_14-28-30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/photo_2021-06-15_15-53-33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3 (2).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/.idea/lesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4(2).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4(4).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4(5).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react 13/harrypotter/harrypotter/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/AddTodo/AddTodo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/AddTodo/todoBtn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/AddTodo/todoInput.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/Header/header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/Header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/Status/StatusBtn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/Status/status.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/Todooo/todoo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/Todooo/todooo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/Todos/Todos.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/Todos/Todos.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/statusBar/StatusBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/statusBar/StatusBar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/todo/TodoSearch.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/components/todo/todo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react15/todo/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../~$кумент Microsoft Word.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Браузер Opera.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Чертеж1.dwl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Чертеж1.dwl2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2CcZo3Ks6XLcdpfvlWKyZ6t4rld" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3less" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43619a42-09f3-4cb4-8eed-7f8279fa4492" name="Changes" comment="" />
+      <created>1659104007467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659104007467</updated>
+      <workItem from="1659104008942" duration="6414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
