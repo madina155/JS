@@ -5,9 +5,7 @@
       <change afterPath="$PROJECT_DIR$/../../Experiments/btn.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Experiments/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Experiments/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1less/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1less/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4less/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Madina N/madi/src/App.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Madina N/madi/src/App.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Madina N/madi/src/index.js" afterDir="false" />
@@ -57,10 +55,21 @@
       <change afterPath="$PROJECT_DIR$/../../WEATHER/weather/src/App/App.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../WEATHER/weather/src/WeatherDisplay/WeatherDisplay.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../WEATHER/weather/src/WeatherDisplay/WeatherDisplay.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../WhatsApp.lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork2/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homeWork/homeWork3/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../it-run 18-00/1less/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../it-run 18-00/8less/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../it-run 18-00/8less/style.css" afterDir="false" />
@@ -304,6 +313,7 @@
       <change afterPath="$PROJECT_DIR$/../../Браузер Opera.lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Чертеж1.dwl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Чертеж1.dwl2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1less" beforeDir="false" afterPath="$PROJECT_DIR$/../1less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +321,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2CcZo3Ks6XLcdpfvlWKyZ6t4rld" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -323,7 +333,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3less" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1less" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -336,6 +346,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659104007467</updated>
       <workItem from="1659104008942" duration="6414000" />
+      <workItem from="1659446728969" duration="30000" />
     </task>
     <servers />
   </component>
